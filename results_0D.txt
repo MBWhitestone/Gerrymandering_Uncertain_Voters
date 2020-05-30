@@ -1,0 +1,145 @@
+0D dists 3 units_in_dist 3 unit_size 1 avg_score 0.35
+0D dists 3 units_in_dist 3 unit_size 1 ratio 0.25 mean pack 0.1 mean crack 0.03 mean prack 0.11
+0D dists 3 units_in_dist 3 unit_size 1 ratio 0.5 mean pack -0.02 mean crack -0.01 mean prack 0.05
+0D dists 3 units_in_dist 3 unit_size 1 ratio 1 mean pack -0.02 mean crack -0.01 mean prack -0.05
+0D dists 3 units_in_dist 3 unit_size 10 avg_score 0.34
+0D dists 3 units_in_dist 3 unit_size 10 param average ratio 0.25 mean pack 0.11 mean crack 0.04 mean prack 0.1 median pack0.11 median crack 0.04 median prack 0.1
+0D dists 3 units_in_dist 3 unit_size 10 param median ratio 0.25 mean pack 0.01 mean crack 0.03 mean prack 0.08 median pack0.01 median crack 0.03 median prack 0.08
+0D dists 3 units_in_dist 3 unit_size 10 param average ratio 0.5 mean pack -0.0 mean crack 0.0 mean prack 0.05 median pack-0.0 median crack 0.0 median prack 0.05
+0D dists 3 units_in_dist 3 unit_size 10 param median ratio 0.5 mean pack 0.06 mean crack -0.02 mean prack 0.02 median pack0.06 median crack -0.02 median prack 0.02
+0D dists 3 units_in_dist 3 unit_size 10 param average ratio 1 mean pack -0.02 mean crack 0.05 mean prack -0.01 median pack-0.02 median crack 0.05 median prack -0.01
+0D dists 3 units_in_dist 3 unit_size 10 param median ratio 1 mean pack 0.02 mean crack -0.0 mean prack -0.0 median pack0.02 median crack -0.0 median prack -0.0
+0D dists 3 units_in_dist 3 unit_size 100 avg_score 0.37
+0D dists 3 units_in_dist 3 unit_size 100 param average ratio 0.25 mean pack 0.13 mean crack 0.01 mean prack 0.1 median pack0.13 median crack 0.01 median prack 0.1
+0D dists 3 units_in_dist 3 unit_size 100 param median ratio 0.25 mean pack 0.13 mean crack -0.04 mean prack 0.11 median pack0.13 median crack -0.04 median prack 0.11
+0D dists 3 units_in_dist 3 unit_size 100 param average ratio 0.5 mean pack -0.0 mean crack 0.01 mean prack -0.0 median pack-0.0 median crack 0.01 median prack -0.0
+0D dists 3 units_in_dist 3 unit_size 100 param median ratio 0.5 mean pack -0.02 mean crack -0.02 mean prack -0.03 median pack-0.02 median crack -0.02 median prack -0.03
+0D dists 3 units_in_dist 3 unit_size 100 param average ratio 1 mean pack 0.02 mean crack -0.01 mean prack -0.01 median pack0.02 median crack -0.01 median prack -0.01
+0D dists 3 units_in_dist 3 unit_size 100 param median ratio 1 mean pack -0.02 mean crack -0.01 mean prack 0.01 median pack-0.02 median crack -0.01 median prack 0.01
+0D dists 3 units_in_dist 5 unit_size 1 ratio 0.25 mean pack 0.16 mean crack -0.02 mean prack 0.34
+0D dists 3 units_in_dist 5 unit_size 1 ratio 0.5 mean pack 0.02 mean crack -0.02 mean prack 0.05
+0D dists 3 units_in_dist 5 unit_size 1 ratio 1 mean pack 0.01 mean crack 0.0 mean prack -0.05
+0D dists 3 units_in_dist 5 unit_size 10 param average ratio 0.25 mean pack 0.15 mean crack 0.04 mean prack 0.21 median pack0.15 median crack 0.04 median prack 0.21
+0D dists 3 units_in_dist 5 unit_size 10 param median ratio 0.25 mean pack 0.08 mean crack -0.01 mean prack 0.16 median pack0.08 median crack -0.01 median prack 0.16
+0D dists 3 units_in_dist 5 unit_size 10 param average ratio 0.5 mean pack -0.01 mean crack 0.01 mean prack 0.0 median pack-0.01 median crack 0.01 median prack 0.0
+0D dists 3 units_in_dist 5 unit_size 10 param median ratio 0.5 mean pack -0.07 mean crack 0.02 mean prack -0.01 median pack-0.07 median crack 0.02 median prack -0.01
+0D dists 3 units_in_dist 5 unit_size 10 param average ratio 1 mean pack -0.03 mean crack 0.01 mean prack -0.01 median pack-0.03 median crack 0.01 median prack -0.01
+0D dists 3 units_in_dist 5 unit_size 10 param median ratio 1 mean pack 0.02 mean crack -0.01 mean prack -0.01 median pack0.02 median crack -0.01 median prack -0.01
+0D dists 3 units_in_dist 5 unit_size 100 param average ratio 0.25 mean pack 0.21 mean crack 0.06 mean prack 0.22 median pack0.21 median crack 0.06 median prack 0.22
+0D dists 3 units_in_dist 5 unit_size 100 param median ratio 0.25 mean pack 0.13 mean crack 0.01 mean prack 0.17 median pack0.13 median crack 0.01 median prack 0.17
+0D dists 3 units_in_dist 5 unit_size 100 param average ratio 0.5 mean pack 0.03 mean crack 0.01 mean prack 0.02 median pack0.03 median crack 0.01 median prack 0.02
+0D dists 3 units_in_dist 5 unit_size 100 param median ratio 0.5 mean pack 0.06 mean crack -0.02 mean prack 0.0 median pack0.06 median crack -0.02 median prack 0.0
+0D dists 3 units_in_dist 5 unit_size 100 param average ratio 1 mean pack -0.04 mean crack -0.01 mean prack 0.0 median pack-0.04 median crack -0.01 median prack 0.0
+0D dists 3 units_in_dist 5 unit_size 100 param median ratio 1 mean pack 0.03 mean crack 0.03 mean prack -0.03 median pack0.03 median crack 0.03 median prack -0.03
+0D dists 3 units_in_dist 7 unit_size 1 ratio 0.25 mean pack 0.24 mean crack -0.01 mean prack 0.27
+0D dists 3 units_in_dist 7 unit_size 1 ratio 0.5 mean pack 0.0 mean crack 0.03 mean prack 0.06
+0D dists 3 units_in_dist 7 unit_size 1 ratio 1 mean pack 0.0 mean crack 0.02 mean prack -0.04
+0D dists 3 units_in_dist 7 unit_size 10 param average ratio 0.25 mean pack 0.19 mean crack 0.02 mean prack 0.28 median pack0.19 median crack 0.02 median prack 0.28
+0D dists 3 units_in_dist 7 unit_size 10 param median ratio 0.25 mean pack 0.22 mean crack 0.02 mean prack 0.26 median pack0.22 median crack 0.02 median prack 0.26
+0D dists 3 units_in_dist 7 unit_size 10 param average ratio 0.5 mean pack -0.02 mean crack 0.02 mean prack 0.01 median pack-0.02 median crack 0.02 median prack 0.01
+0D dists 3 units_in_dist 7 unit_size 10 param median ratio 0.5 mean pack -0.01 mean crack 0.03 mean prack 0.02 median pack-0.01 median crack 0.03 median prack 0.02
+0D dists 3 units_in_dist 7 unit_size 10 param average ratio 1 mean pack -0.05 mean crack 0.03 mean prack -0.02 median pack-0.05 median crack 0.03 median prack -0.02
+0D dists 3 units_in_dist 7 unit_size 10 param median ratio 1 mean pack -0.0 mean crack -0.0 mean prack -0.0 median pack-0.0 median crack -0.0 median prack -0.0
+0D dists 3 units_in_dist 7 unit_size 100 param average ratio 0.25 mean pack 0.25 mean crack 0.05 mean prack 0.23 median pack0.25 median crack 0.05 median prack 0.23
+0D dists 3 units_in_dist 7 unit_size 100 param median ratio 0.25 mean pack 0.21 mean crack -0.03 mean prack 0.25 median pack0.21 median crack -0.03 median prack 0.25
+0D dists 3 units_in_dist 7 unit_size 100 param average ratio 0.5 mean pack 0.04 mean crack -0.06 mean prack -0.06 median pack0.04 median crack -0.06 median prack -0.06
+0D dists 3 units_in_dist 7 unit_size 100 param median ratio 0.5 mean pack -0.01 mean crack 0.01 mean prack 0.0 median pack-0.01 median crack 0.01 median prack 0.0
+0D dists 3 units_in_dist 7 unit_size 100 param average ratio 1 mean pack -0.02 mean crack 0.02 mean prack -0.03 median pack-0.02 median crack 0.02 median prack -0.03
+0D dists 3 units_in_dist 7 unit_size 100 param median ratio 1 mean pack -0.0 mean crack 0.01 mean prack -0.02 median pack-0.0 median crack 0.01 median prack -0.02
+0D dists 5 units_in_dist 3 unit_size 1 ratio 0.25 mean pack 0.17 mean crack 0.0 mean prack 0.11
+0D dists 5 units_in_dist 3 unit_size 1 ratio 0.5 mean pack 0.12 mean crack -0.01 mean prack 0.19
+0D dists 5 units_in_dist 3 unit_size 1 ratio 1 mean pack -0.05 mean crack 0.04 mean prack -0.05
+0D dists 5 units_in_dist 3 unit_size 10 param average ratio 0.25 mean pack 0.04 mean crack 0.0 mean prack 0.08 median pack0.04 median crack 0.0 median prack 0.08
+0D dists 5 units_in_dist 3 unit_size 10 param median ratio 0.25 mean pack 0.08 mean crack 0.05 mean prack 0.04 median pack0.08 median crack 0.05 median prack 0.04
+0D dists 5 units_in_dist 3 unit_size 10 param average ratio 0.5 mean pack 0.02 mean crack -0.01 mean prack 0.06 median pack0.02 median crack -0.01 median prack 0.06
+0D dists 5 units_in_dist 3 unit_size 10 param median ratio 0.5 mean pack 0.08 mean crack -0.01 mean prack 0.14 median pack0.08 median crack -0.01 median prack 0.14
+0D dists 5 units_in_dist 3 unit_size 10 param average ratio 1 mean pack -0.01 mean crack 0.01 mean prack -0.03 median pack-0.01 median crack 0.01 median prack -0.03
+0D dists 5 units_in_dist 3 unit_size 10 param median ratio 1 mean pack -0.07 mean crack -0.01 mean prack 0.02 median pack-0.07 median crack -0.01 median prack 0.02
+0D dists 5 units_in_dist 3 unit_size 100 param average ratio 0.25 mean pack 0.15 mean crack 0.0 mean prack 0.11 median pack0.15 median crack 0.0 median prack 0.11
+0D dists 5 units_in_dist 3 unit_size 100 param median ratio 0.25 mean pack 0.04 mean crack 0.0 mean prack 0.02 median pack0.04 median crack 0.0 median prack 0.02
+0D dists 5 units_in_dist 3 unit_size 100 param average ratio 0.5 mean pack 0.08 mean crack -0.03 mean prack 0.09 median pack0.08 median crack -0.03 median prack 0.09
+0D dists 5 units_in_dist 3 unit_size 100 param median ratio 0.5 mean pack 0.06 mean crack 0.02 mean prack 0.07 median pack0.06 median crack 0.02 median prack 0.07
+0D dists 5 units_in_dist 3 unit_size 100 param average ratio 1 mean pack 0.03 mean crack 0.01 mean prack -0.02 median pack0.03 median crack 0.01 median prack -0.02
+0D dists 5 units_in_dist 3 unit_size 100 param median ratio 1 mean pack -0.0 mean crack -0.03 mean prack 0.01 median pack-0.0 median crack -0.03 median prack 0.01
+0D dists 5 units_in_dist 5 unit_size 1 ratio 0.25 mean pack 0.2 mean crack -0.01 mean prack 0.23
+0D dists 5 units_in_dist 5 unit_size 1 ratio 0.5 mean pack 0.23 mean crack -0.02 mean prack 0.22
+0D dists 5 units_in_dist 5 unit_size 1 ratio 1 mean pack 0.04 mean crack -0.03 mean prack 0.02
+0D dists 5 units_in_dist 5 unit_size 10 param average ratio 0.25 mean pack 0.11 mean crack -0.03 mean prack 0.07 median pack0.11 median crack -0.03 median prack 0.07
+0D dists 5 units_in_dist 5 unit_size 10 param median ratio 0.25 mean pack 0.13 mean crack -0.04 mean prack 0.15 median pack0.13 median crack -0.04 median prack 0.15
+0D dists 5 units_in_dist 5 unit_size 10 param average ratio 0.5 mean pack 0.24 mean crack -0.02 mean prack 0.21 median pack0.24 median crack -0.02 median prack 0.21
+0D dists 5 units_in_dist 5 unit_size 10 param median ratio 0.5 mean pack 0.22 mean crack 0.0 mean prack 0.19 median pack0.22 median crack 0.0 median prack 0.19
+0D dists 5 units_in_dist 5 unit_size 10 param average ratio 1 mean pack 0.0 mean crack 0.01 mean prack 0.04 median pack0.0 median crack 0.01 median prack 0.04
+0D dists 5 units_in_dist 5 unit_size 10 param median ratio 1 mean pack -0.07 mean crack 0.01 mean prack -0.0 median pack-0.07 median crack 0.01 median prack -0.0
+0D dists 5 units_in_dist 5 unit_size 100 param average ratio 0.25 mean pack 0.15 mean crack 0.05 mean prack 0.2 median pack0.15 median crack 0.05 median prack 0.2
+0D dists 5 units_in_dist 5 unit_size 100 param median ratio 0.25 mean pack 0.18 mean crack -0.03 mean prack 0.22 median pack0.18 median crack -0.03 median prack 0.22
+0D dists 5 units_in_dist 5 unit_size 100 param average ratio 0.5 mean pack 0.19 mean crack -0.02 mean prack 0.26 median pack0.19 median crack -0.02 median prack 0.26
+0D dists 5 units_in_dist 5 unit_size 100 param median ratio 0.5 mean pack 0.14 mean crack 0.03 mean prack 0.13 median pack0.14 median crack 0.03 median prack 0.13
+0D dists 5 units_in_dist 5 unit_size 100 param average ratio 1 mean pack 0.0 mean crack -0.02 mean prack 0.0 median pack0.0 median crack -0.02 median prack 0.0
+0D dists 5 units_in_dist 5 unit_size 100 param median ratio 1 mean pack -0.01 mean crack 0.01 mean prack 0.02 median pack-0.01 median crack 0.01 median prack 0.02
+0D dists 5 units_in_dist 7 unit_size 1 ratio 0.25 mean pack 0.31 mean crack 0.08 mean prack 0.45
+0D dists 5 units_in_dist 7 unit_size 1 ratio 0.5 mean pack 0.38 mean crack 0.02 mean prack 0.4
+0D dists 5 units_in_dist 7 unit_size 1 ratio 1 mean pack -0.02 mean crack -0.03 mean prack -0.01
+0D dists 5 units_in_dist 7 unit_size 10 param average ratio 0.25 mean pack 0.13 mean crack 0.0 mean prack 0.2 median pack0.13 median crack 0.0 median prack 0.2
+0D dists 5 units_in_dist 7 unit_size 10 param median ratio 0.25 mean pack 0.19 mean crack -0.02 mean prack 0.27 median pack0.19 median crack -0.02 median prack 0.27
+0D dists 5 units_in_dist 7 unit_size 10 param average ratio 0.5 mean pack 0.28 mean crack 0.02 mean prack 0.35 median pack0.28 median crack 0.02 median prack 0.35
+0D dists 5 units_in_dist 7 unit_size 10 param median ratio 0.5 mean pack 0.24 mean crack -0.01 mean prack 0.28 median pack0.24 median crack -0.01 median prack 0.28
+0D dists 5 units_in_dist 7 unit_size 10 param average ratio 1 mean pack -0.01 mean crack -0.0 mean prack -0.02 median pack-0.01 median crack -0.0 median prack -0.02
+0D dists 5 units_in_dist 7 unit_size 10 param median ratio 1 mean pack 0.03 mean crack 0.0 mean prack 0.05 median pack0.03 median crack 0.0 median prack 0.05
+0D dists 5 units_in_dist 7 unit_size 100 param average ratio 0.25 mean pack 0.26 mean crack 0.02 mean prack 0.28 median pack0.26 median crack 0.02 median prack 0.28
+0D dists 5 units_in_dist 7 unit_size 100 param median ratio 0.25 mean pack 0.3 mean crack 0.01 mean prack 0.36 median pack0.3 median crack 0.01 median prack 0.36
+0D dists 5 units_in_dist 7 unit_size 100 param average ratio 0.5 mean pack 0.26 mean crack -0.03 mean prack 0.27 median pack0.26 median crack -0.03 median prack 0.27
+0D dists 5 units_in_dist 7 unit_size 100 param median ratio 0.5 mean pack 0.24 mean crack 0.0 mean prack 0.18 median pack0.24 median crack 0.0 median prack 0.18
+0D dists 5 units_in_dist 7 unit_size 100 param average ratio 1 mean pack 0.0 mean crack -0.01 mean prack -0.04 median pack0.0 median crack -0.01 median prack -0.04
+0D dists 5 units_in_dist 7 unit_size 100 param median ratio 1 mean pack -0.01 mean crack -0.02 mean prack -0.06 median pack-0.01 median crack -0.02 median prack -0.06
+0D dists 7 units_in_dist 3 unit_size 1 ratio 0.25 mean pack 0.18 mean crack -0.02 mean prack 0.18
+0D dists 7 units_in_dist 3 unit_size 1 ratio 0.5 mean pack 0.05 mean crack 0.03 mean prack 0.09
+0D dists 7 units_in_dist 3 unit_size 1 ratio 1 mean pack -0.07 mean crack -0.05 mean prack 0.03
+0D dists 7 units_in_dist 3 unit_size 10 param average ratio 0.25 mean pack 0.14 mean crack -0.04 mean prack 0.12 median pack0.14 median crack -0.04 median prack 0.12
+0D dists 7 units_in_dist 3 unit_size 10 param median ratio 0.25 mean pack 0.15 mean crack 0.02 mean prack 0.1 median pack0.15 median crack 0.02 median prack 0.1
+0D dists 7 units_in_dist 3 unit_size 10 param average ratio 0.5 mean pack 0.02 mean crack -0.03 mean prack 0.03 median pack0.02 median crack -0.03 median prack 0.03
+0D dists 7 units_in_dist 3 unit_size 10 param median ratio 0.5 mean pack 0.08 mean crack 0.01 mean prack 0.07 median pack0.08 median crack 0.01 median prack 0.07
+0D dists 7 units_in_dist 3 unit_size 10 param average ratio 1 mean pack 0.03 mean crack 0.01 mean prack -0.03 median pack0.03 median crack 0.01 median prack -0.03
+0D dists 7 units_in_dist 3 unit_size 10 param median ratio 1 mean pack -0.03 mean crack -0.01 mean prack 0.0 median pack-0.03 median crack -0.01 median prack 0.0
+0D dists 7 units_in_dist 3 unit_size 100 param average ratio 0.25 mean pack 0.1 mean crack -0.03 mean prack 0.15 median pack0.1 median crack -0.03 median prack 0.15
+0D dists 7 units_in_dist 3 unit_size 100 param median ratio 0.25 mean pack 0.08 mean crack 0.03 mean prack 0.14 median pack0.08 median crack 0.03 median prack 0.14
+0D dists 7 units_in_dist 3 unit_size 100 param average ratio 0.5 mean pack 0.04 mean crack 0.05 mean prack 0.07 median pack0.04 median crack 0.05 median prack 0.07
+0D dists 7 units_in_dist 3 unit_size 100 param median ratio 0.5 mean pack 0.01 mean crack 0.01 mean prack 0.03 median pack0.01 median crack 0.01 median prack 0.03
+0D dists 7 units_in_dist 3 unit_size 100 param average ratio 1 mean pack -0.02 mean crack 0.0 mean prack -0.04 median pack-0.02 median crack 0.0 median prack -0.04
+0D dists 7 units_in_dist 3 unit_size 100 param median ratio 1 mean pack 0.03 mean crack 0.02 mean prack 0.03 median pack0.03 median crack 0.02 median prack 0.03
+0D dists 7 units_in_dist 5 unit_size 1 ratio 0.25 mean pack 0.3 mean crack 0.01 mean prack 0.33
+0D dists 7 units_in_dist 5 unit_size 1 ratio 0.5 mean pack 0.12 mean crack 0.02 mean prack 0.16
+0D dists 7 units_in_dist 5 unit_size 1 ratio 1 mean pack 0.03 mean crack 0.01 mean prack -0.01
+0D dists 7 units_in_dist 5 unit_size 10 param average ratio 0.25 mean pack 0.2 mean crack -0.01 mean prack 0.25 median pack0.2 median crack -0.01 median prack 0.25
+0D dists 7 units_in_dist 5 unit_size 10 param median ratio 0.25 mean pack 0.24 mean crack -0.01 mean prack 0.24 median pack0.24 median crack -0.01 median prack 0.24
+0D dists 7 units_in_dist 5 unit_size 10 param average ratio 0.5 mean pack 0.1 mean crack -0.07 mean prack 0.09 median pack0.1 median crack -0.07 median prack 0.09
+0D dists 7 units_in_dist 5 unit_size 10 param median ratio 0.5 mean pack 0.14 mean crack -0.0 mean prack 0.14 median pack0.14 median crack -0.0 median prack 0.14
+0D dists 7 units_in_dist 5 unit_size 10 param average ratio 1 mean pack 0.03 mean crack -0.0 mean prack 0.05 median pack0.03 median crack -0.0 median prack 0.05
+0D dists 7 units_in_dist 5 unit_size 10 param median ratio 1 mean pack 0.05 mean crack 0.0 mean prack 0.0 median pack0.05 median crack 0.0 median prack 0.0
+0D dists 7 units_in_dist 5 unit_size 100 param average ratio 0.25 mean pack 0.28 mean crack 0.02 mean prack 0.31 median pack0.28 median crack 0.02 median prack 0.31
+0D dists 7 units_in_dist 5 unit_size 100 param median ratio 0.25 mean pack 0.19 mean crack -0.03 mean prack 0.31 median pack0.19 median crack -0.03 median prack 0.31
+0D dists 7 units_in_dist 5 unit_size 100 param average ratio 0.5 mean pack 0.08 mean crack 0.01 mean prack 0.15 median pack0.08 median crack 0.01 median prack 0.15
+0D dists 7 units_in_dist 5 unit_size 100 param median ratio 0.5 mean pack 0.06 mean crack 0.03 mean prack 0.13 median pack0.06 median crack 0.03 median prack 0.13
+0D dists 7 units_in_dist 5 unit_size 100 param average ratio 1 mean pack 0.05 mean crack 0.03 mean prack 0.01 median pack0.05 median crack 0.03 median prack 0.01
+0D dists 7 units_in_dist 5 unit_size 100 param median ratio 1 mean pack -0.01 mean crack -0.01 mean prack 0.02 median pack-0.01 median crack -0.01 median prack 0.02
+0D dists 7 units_in_dist 7 unit_size 1 ratio 0.25 mean pack 0.39 mean crack -0.0 mean prack 0.49
+0D dists 7 units_in_dist 7 unit_size 1 ratio 0.5 mean pack 0.08 mean crack -0.01 mean prack 0.12
+0D dists 7 units_in_dist 7 unit_size 1 ratio 1 mean pack -0.01 mean crack -0.04 mean prack 0.02
+0D dists 7 units_in_dist 7 unit_size 10 param average ratio 0.25 mean pack 0.33 mean crack -0.01 mean prack 0.34 median pack0.33 median crack -0.01 median prack 0.34
+0D dists 7 units_in_dist 7 unit_size 10 param median ratio 0.25 mean pack 0.27 mean crack 0.01 mean prack 0.31 median pack0.27 median crack 0.01 median prack 0.31
+0D dists 7 units_in_dist 7 unit_size 10 param average ratio 0.5 mean pack 0.12 mean crack -0.06 mean prack 0.09 median pack0.12 median crack -0.06 median prack 0.09
+0D dists 7 units_in_dist 7 unit_size 10 param median ratio 0.5 mean pack 0.09 mean crack -0.04 mean prack 0.12 median pack0.09 median crack -0.04 median prack 0.12
+0D dists 7 units_in_dist 7 unit_size 10 param average ratio 1 mean pack -0.07 mean crack -0.01 mean prack 0.06 median pack-0.07 median crack -0.01 median prack 0.06
+0D dists 7 units_in_dist 7 unit_size 10 param median ratio 1 mean pack 0.01 mean crack -0.01 mean prack -0.02 median pack0.01 median crack -0.01 median prack -0.02
+0D dists 7 units_in_dist 7 unit_size 100 param average ratio 0.25 mean pack 0.38 mean crack 0.04 mean prack 0.37 median pack0.38 median crack 0.04 median prack 0.37
+0D dists 7 units_in_dist 7 unit_size 100 param median ratio 0.25 mean pack 0.27 mean crack 0.01 mean prack 0.38 median pack0.27 median crack 0.01 median prack 0.38
+0D dists 7 units_in_dist 7 unit_size 100 param average ratio 0.5 mean pack 0.1 mean crack 0.03 mean prack 0.19 median pack0.1 median crack 0.03 median prack 0.19
+0D dists 7 units_in_dist 7 unit_size 100 param median ratio 0.5 mean pack 0.11 mean crack 0.02 mean prack 0.12 median pack0.11 median crack 0.02 median prack 0.12
+0D dists 7 units_in_dist 7 unit_size 100 param average ratio 1 mean pack -0.03 mean crack 0.03 mean prack -0.03 median pack-0.03 median crack 0.03 median prack -0.03
+0D dists 7 units_in_dist 7 unit_size 100 param median ratio 1 mean pack -0.0 mean crack -0.03 mean prack 0.0 median pack-0.0 median crack -0.03 median prack 0.0
+0D dists 27 units_in_dist 3 unit_size 1 ratio 0.25 mean pack 0.24 mean crack 0.06 mean prack 0.43
+0D dists 27 units_in_dist 5 unit_size 1 ratio 0.25 mean pack 0.43 mean crack -0.01 mean prack 0.56
+0D dists 27 units_in_dist 7 unit_size 1 ratio 0.25 mean pack 0.66 mean crack -0.02 mean prack 0.71
+0D dists 27 units_in_dist 27 unit_size 1 ratio 0.25 mean pack 1.0 mean crack 0.03 mean prack 1.0
+0D dists 3 units_in_dist 27 unit_size 1 ratio 0.25 mean pack 0.81 mean crack 0.01 mean prack 0.84
+0D dists 5 units_in_dist 27 unit_size 1 ratio 0.25 mean pack 0.79 mean crack 0.03 mean prack 0.81
+0D dists 7 units_in_dist 27 unit_size 1 ratio 0.25 mean pack 0.92 mean crack 0.05 mean prack 0.94

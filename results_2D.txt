@@ -1,0 +1,12 @@
+2D dists 3 units_in_dist 3 unit_size 1 avg_score -0.06
+2D dists 3 units_in_dist 3 unit_size 10 avg_score 0.01
+2D dists 3 units_in_dist 3 unit_size 100 avg_score -0.04
+2D dists 3 units_in_dist 5 unit_size 1 avg_score 0.02
+2D dists 3 units_in_dist 5 unit_size 10 avg_score -0.03
+2D dists 3 units_in_dist 5 unit_size 100 avg_score 0.03
+2D dists 3 units_in_dist 7 unit_size 1 avg_score -0.07
+2D dists 3 units_in_dist 7 unit_size 10 avg_score -0.01
+2D dists 3 units_in_dist 7 unit_size 100 avg_score -0.03
+2D dists 5 units_in_dist 3 unit_size 1 avg_score -0.0
+2D dists 5 units_in_dist 3 unit_size 10 avg_score 0.0
+2D dists 5 units_in_dist 3 unit_size 100 avg_score 0.0
